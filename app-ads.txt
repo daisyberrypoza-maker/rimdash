@@ -1,0 +1,2 @@
+# RimDash: add the exact authorized seller record supplied by your ad platform here.
+# Do not publish a fabricated publisher ID. This file is not verified until a real entry is added.

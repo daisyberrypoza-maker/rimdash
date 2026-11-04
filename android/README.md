@@ -1,0 +1,2 @@
+# Neon Dash Android starter
+Open this folder in Android Studio. Package ID: `com.neondash.arcade`. This is a game prototype, not a release-ready monetized app. AppLovin MAX is not integrated because no account or real SDK/ad-unit IDs exist yet. Follow the current official MAX Android integration guide and add real IDs only after account setup. Test ads, privacy/consent, Play declarations and target API requirements before publishing.
